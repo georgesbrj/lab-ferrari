@@ -1,3 +1,3 @@
 # lab-ferrari
 
-Projeto do curos js-developer 
+Projeto do curso js-developer 
